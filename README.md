@@ -32,3 +32,34 @@ In order to get to an actionable insight, we performed the following steps:
 
 # Presentation:
 
+![slide 1](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.001.jpeg)
+
+![slide 2](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.002.jpeg)
+
+![slide 3](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.003.jpeg)
+
+![slide 4](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.004.jpeg)
+
+![slide 5](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.005.jpeg)
+
+![slide 6](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.006.jpeg)
+
+![slide 7](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.007.jpeg)
+
+![slide 8](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.008.jpeg)
+
+![slide 9](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.009.jpeg)
+
+![slide 10](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.010.jpeg)
+
+![slide 11](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.011.jpeg)
+
+![slide 12](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.012.jpeg)
+
+![slide 13](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.013.jpeg)
+
+![slide 14](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.014.jpeg)
+
+![slide 15](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.015.jpeg)
+
+![slide 16](https://github.com/photonconsult/mod1_project_051120/blob/master/photon_presentation_final_slides/photon_presentation_final_slides.016.jpeg)
